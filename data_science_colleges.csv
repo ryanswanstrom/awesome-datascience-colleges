@@ -1,5 +1,4 @@
 SCHOOL,PROGRAM,DEGREE,ONLINE,ONCAMPUS,COUNTRY,STATE,CITY,DEPARTMENT,URL
-University of Oviedo,Master in Soft Computing and Intelligent Data Analysis,M,F,T,ES,Asturias,Mieres,European Centre for Soft Computing,http://www.softcomputing.es/metaspace/portal/5/254-about
 Auburn University,Online Master of Business Administration with concentration in Business Analytics,M,F,T,US,AL,Auburn,Raymond J. Harbert College of Business,http://harbert.auburn.edu/academics/online-programs/mba-online/index.php
 Auburn University,Data Science,B,F,T,US,AL,Auburn,Business,http://harbert.auburn.edu/academics/undergraduate/business-analytics/index.php
 The University of Alabama,"Master of Science in Marketing, Specialization in Marketing Analytics",M,T,F,US,AL,Tuscaloosa,Manderson Graduate School of Business,http://bamabydistance.ua.edu/degrees/ms-in-marketing-with-a-specialization-in-marketing-analytics/index.php
@@ -476,6 +475,7 @@ Universidad Rey Juan Carlos,Data Science,M,F,T,ES,,Madrid,,http://www.masterdata
 Universitat Pompeu Fabra,Intelligent Interactive Systems,M,F,T,ES,,,,http://www.upf.edu/iis/program.html
 Universities Of Alicante,Machine Learning And Data Mining,M,F,T,ES,,,,http://www.iuii.ua.es/MLDM/overview.php
 University of Barcelona,Data Science,M,F,T,ES,,,,http://www.barcelonagse.eu/data-science-master-degree.html
+University of Oviedo,Master in Soft Computing and Intelligent Data Analysis,M,F,T,ES,Asturias,Mieres,European Centre for Soft Computing,http://www.softcomputing.es/metaspace/portal/5/254-about
 Aalborg University,Data Engineering,M,F,T,DK,,,,http://www.studyguide.aau.dk/programmes/postgraduate/55777/
 Aarhus University,Industrial Phd In Big Data Analysis,D,F,T,DK,,,,http://icoa.au.dk/news/single/artikel/seeking-candidate-for-industrial-phd/
 Aarhus University,Business Intelligence,M,F,T,DK,,,,http://kandidat.au.dk/en/economics-and-business-administration-business-intelligence/
