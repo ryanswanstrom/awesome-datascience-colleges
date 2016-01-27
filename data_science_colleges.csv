@@ -44,9 +44,10 @@ University of California-Irvine,Business Intelligence & Data Warehousing Certifi
 University of California-Irvine,Predictive Analytics Certificate Program,C,T,F,US,CA,Irvine,UCI Extension School,http://unex.uci.edu/areas/it/predictive_analytics/
 University of California-San Diego,Data Mining Certificate,C,T,F,US,CA,La Jolla,UC San Diego Extension School,http://extension.ucsd.edu/programs/index.cfm?vAction=certDetail&vCertificateID=128&vStudyAreaID=14
 University of California-San Diego,Master of Advanced Study in Data Science and Engineering,M,F,T,US,CA,La Jolla,Departments of Computer Science and Engineering,http://www.jacobsschool.ucsd.edu/mas/dse/index.sfe
-"University of California, Berkeley",Information and Data Science,M,T,F,US,CA,,School of Information,http://datascience.berkeley.edu/
-"University of California, Berkeley",Business Intelligence and SAS Analytics Software,C,F,T,US,CA,,,http://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17152&selectedProgramAreaId=15499&selectedProgramStreamId=16388
-"University of California, Berkeley",Data Science and Systems Concentration,M,F,T,US,CA,,Engineering,http://www.eecs.berkeley.edu/MEng/index.shtml
+University of California-San Diego,Master of Science in Business Analytics,M,F,T,US,CA,La Jolla,Rady School of Management,http://rady.ucsd.edu/msba/
+University of California-Berkeley,Information and Data Science,M,T,F,US,CA,,School of Information,http://datascience.berkeley.edu/
+University of California-Berkeley,Business Intelligence and SAS Analytics Software,C,F,T,US,CA,,,http://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17152&selectedProgramAreaId=15499&selectedProgramStreamId=16388
+University of California-Berkeley,Data Science and Systems Concentration,M,F,T,US,CA,,Engineering,http://www.eecs.berkeley.edu/MEng/index.shtml
 University of San Francisco,Master of Science in Analytics,M,T,T,US,CA,San Francisco,College of Arts and Sciences,http://www.usfca.edu/analytics/
 University Of San Francisco,Data Science,B,F,T,US,CA,,,http://usfca.edu/artsci/bsds/
 University of Southern California,Master of Science in Computer Science - Data Science,M,F,T,US,CA,Los Angeles,Viterbi School of Engineering,http://gapp.usc.edu/graduate-programs/masters/computer-science/data-science
@@ -395,6 +396,8 @@ Kth Royal Institute Of Technology,Machine Learning,M,F,T,SE,,,,http://www.kth.se
 Linköping University,Statistics And Data Mining,M,F,T,SE,,,,http://www.liu.se/utbildning/pabyggnad/F7MSM?l=en
 Universidade Nova de Lisboa,Information Management,M,F,T,PT,,,Statistics And Information Management,http://www.isegi.unl.pt/MGI/Especializacao/Gestao-Sistemas-Tecnologias-Informacao/Detalhe-do-Curso/plano-de-estudos.asp
 University of Otago,Business Data Science,M,F,T,NZ,,,Business,http://www.otago.ac.nz/business/study/postgraduate/otago052118.html
+Massey University,Data Science,B,F,T,NZ,,Auckland,,http://www.massey.ac.nz/massey/learning/programme-course-paper/programme.cfm?prog_id=92411&major_code=2913
+Massey University,Analytics,M,F,T,NZ,,Auckland,,http://www.massey.ac.nz/massey/learning/programme-course-paper/programme.cfm?prog_id=93537
 Erasmus University,Big Data and Business Analytics,M,F,T,NL,,,,http://www.rsm.nl/master/msc-business-information-management/curriculum/starting-point/electives/big-data-and-business-analytics-block-5/
 Maastricht University,Artificial Intelligence,M,F,T,NL,,,,http://www.maastrichtuniversity.nl/web/Schools/DKE/TargetGroup/ProspectiveStudents/MastersProgrammes/ArtificialIntelligence.htm
 Maastricht University,Business Intelligence,M,F,T,NL,,,,http://www.maastrichtuniversity.nl/web/show/id=378498/langid=42
@@ -496,5 +499,6 @@ York University,Business Analytics,M,F,T,CA,,,,http://www.schulich.yorku.ca/clie
 Mackenzie Presbyterian Institute,Big Data Analytics,M,F,T,BR,,,,http://www.mackenzie.br/27582.html
 Deakin University,Business Analytics,M,F,T,AU,,,,http://www.deakin.edu.au/future-students/courses/course.php?course=M760&stutype=local&keywords=information+systems
 Macquarie University,Data Science,M,F,T,AU,,,,http://courses.mq.edu.au/postgraduate/master/master-of-data-science
+University of South Australia,Data Science,M,F,T,AU,,Mawson Lakes,,http://programs.unisa.edu.au/public/pcms/program.aspx?pageid=3144&sid=5278
 University of Technology Sydney,Analytics,D,F,T,AU,,,,https://www.uts.edu.au/research-and-teaching/our-research/advanced-analytics-institute/research-student-opportunities-0
 Vienna University,Information Systems,M,F,T,AT,,,Business,http://www.wu.ac.at/programs/en/master/is/structure/firstyear
