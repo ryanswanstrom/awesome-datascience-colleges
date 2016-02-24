@@ -9,8 +9,8 @@ Arkansas Tech University,Business Data Analytics,B,F,T,US,AR,Russellville,Busine
 University of Arkansas,Graduate Certificate in Business Analytics,C,T,F,US,AR,Fayetteville,Sam M. Walton College of Business,http://gsb.uark.edu/business-analytics-certificate/
 University of Arkansas,Master of Information Systems with Business Analytics Concentration,M,F,T,US,AR,Fayetteville,Sam M. Walton College of Business,http://gsb.uark.edu/master-of-information-systems/
 University of Arkansas,Professional Master of Information Systems,M,F,T,US,AR,Fayetteville,Sam M. Walton College of Business,http://online.uark.edu/programs/professional-master-information-systems.html
-University of Arkansas at Little Rock,Information Quality Program,M,F,T,US,AR,,Information Quality,http://ualr.edu/informationquality/
-University of Arkansas at Little Rock,Information Quality Program PhD,D,F,T,US,AR,,Information Quality,http://ualr.edu/informationquality/phd
+University of Arkansas at Little Rock,Information Quality Program,M,F,T,US,AR,Little Rock,Information Quality,http://ualr.edu/informationquality/
+University of Arkansas at Little Rock,Information Quality Program PhD,D,F,T,US,AR,Little Rock,Information Quality,http://ualr.edu/informationquality/phd
 Arizona State University,Business Analytics,M,F,T,US,AZ,Tempe,Business,http://wpcarey.asu.edu/masters-programs/business-analytics
 Arizona State University,Business Data Analytics,B,F,T,US,AZ,Tempe,Business,http://wpcarey.asu.edu/undergraduate-degrees/data-analytics
 Arizona State University,Master of Science in Business Analytics,M,T,F,US,AZ,Tempe,W.P. Carey School of Business,https://programs.wpcarey.asu.edu/masters-programs/online-business-analytics
@@ -409,7 +409,9 @@ Radboud Universiteit Nijmegen,Business Analysis and Modelling,M,F,T,NL,,,,http:/
 Eindhoven University of Technology(TU/e),Data Science in Engineering,M,F,T,NL,,Eindhoven,,http://www.tue.nl/en/education/tue-graduate-school/masters-programs/data-science-in-engineering/
 Utrecht University,Business Informatics,M,F,T,NL,,,Information and Computing Sciences,http://www.cs.uu.nl/education/
 Vrije Universiteit Amsterdam,Business Analytics,M,F,T,NL,,,,http://www.vu.nl/nl/opleidingen/masteropleidingen/opleidingenoverzicht/a-b/business-analytics/index.asp
+Autonomous Technological Institute of Mexico,Master of Science Data,M,F,T,MX,,Mexico City,,http://mcienciadatos.itam.mx/
 Mykolas Romeris University,Business Informatics,M,F,T,LT,,,,https://stdb.mruni.eu/studiju_programos_aprasas.php?id=2481&l=en
+Sangmyung University,Big Data Science,M,F,T,KR,,,,https://bigdata.smu.ac.kr
 BAICR,Data Science,M,F,T,IT,,,,http://www.baicr.it/palinsesto-geografico/data-science
 Polytechnic University Of Turin,Big Data Engineering,M,F,T,IT,,,,https://didattica.polito.it/portal/pls/portal/sviluppo.master.html?cds=73&sdu=32&a_acc=2013&p=presentazione&l=en
 University Of Milan-Bicocca,Business Intelligence & Decision Support Systems,M,F,T,IT,,,,http://www.bimasterbicocca.it/index.php?lang=en
