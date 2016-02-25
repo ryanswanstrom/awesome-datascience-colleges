@@ -24,7 +24,7 @@ California State University-Fullerton,MBA with Business Analytics,M,F,T,US,CA,Fu
 California State University-Long Beach,Master of Science in Applied Statistics,M,T,F,US,CA,Long Beach,Department of Mathematics and Statistics,http://www.csulb.edu/divisions/aa/catalog/current/cnsm/mathematics/mathms05.html
 California State University-San Bernardino,Master of Business Administration (M.B.A.) - Business Intelligence and Information Technology Focus,M,F,T,US,CA,San Bernardino,College of Business and Public Administration,http://bulletin.csusb.edu/colleges-schools-departments/business-public-administration/mba/
 Chapman University,Master of Science in Computational and Data Sciences,M,T,F,US,CA,Orange,Schmid College of Science & Technology,http://www.chapman.edu/scst/graduate/ms-computational-sciences.aspx
-Chapman University,Computational and Data Sciences,D,F,T,US,CA,,Interdisciplinary,http://www.chapman.edu/scst/graduate/phd-computational-science.aspx
+Chapman University,Computational and Data Sciences,D,F,T,US,CA,Orange,Interdisciplinary,http://www.chapman.edu/scst/graduate/phd-computational-science.aspx
 Claremont Graduate University,Masters of Science in Information Systems & Technology: Concentration in Data Science & Analytics,M,F,T,US,CA,Claremont,Center for Information Systems and Technology (CISAT),http://www.cgu.edu/pages/6650.asp
 Galvanize U,Master of Engineering in Big Data,M,F,T,US,CA,San Francisco,Partnership w/University of New Haven,http://www.galvanizeu.com/
 National University,Master of Science in Data Analytics,M,F,T,US,CA,La Jolla,"School of Engineering, Technology and Media",http://www.nu.edu/OurPrograms/SchoolOfEngineeringAndTechnology/ComputerScienceAndInformationSystems/Programs/MasterofScienceinDataAnalytics.html
@@ -45,11 +45,11 @@ University of California-Irvine,Predictive Analytics Certificate Program,C,T,F,U
 University of California-San Diego,Data Mining Certificate,C,T,F,US,CA,La Jolla,UC San Diego Extension School,http://extension.ucsd.edu/programs/index.cfm?vAction=certDetail&vCertificateID=128&vStudyAreaID=14
 University of California-San Diego,Master of Advanced Study in Data Science and Engineering,M,F,T,US,CA,La Jolla,Departments of Computer Science and Engineering,http://www.jacobsschool.ucsd.edu/mas/dse/index.sfe
 University of California-San Diego,Master of Science in Business Analytics,M,F,T,US,CA,La Jolla,Rady School of Management,http://rady.ucsd.edu/msba/
-University of California-Berkeley,Information and Data Science,M,T,F,US,CA,,School of Information,http://datascience.berkeley.edu/
-University of California-Berkeley,Business Intelligence and SAS Analytics Software,C,F,T,US,CA,,,http://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17152&selectedProgramAreaId=15499&selectedProgramStreamId=16388
-University of California-Berkeley,Data Science and Systems Concentration,M,F,T,US,CA,,Engineering,http://www.eecs.berkeley.edu/MEng/index.shtml
+University of California-Berkeley,Information and Data Science,M,T,F,US,CA,Berkeley,School of Information,http://datascience.berkeley.edu/
+University of California-Berkeley,Business Intelligence and SAS Analytics Software,C,F,T,US,CA,Berkeley,,http://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17152&selectedProgramAreaId=15499&selectedProgramStreamId=16388
+University of California-Berkeley,Data Science and Systems Concentration,M,F,T,US,CA,Berkeley,Engineering,http://www.eecs.berkeley.edu/MEng/index.shtml
 University of San Francisco,Master of Science in Analytics,M,T,T,US,CA,San Francisco,College of Arts and Sciences,http://www.usfca.edu/analytics/
-University Of San Francisco,Data Science,B,F,T,US,CA,,,http://usfca.edu/artsci/bsds/
+University Of San Francisco,Data Science,B,F,T,US,CA,San Francisco,College of Arts and Sciences,http://usfca.edu/artsci/bsds/
 University of Southern California,Master of Science in Computer Science - Data Science,M,F,T,US,CA,Los Angeles,Viterbi School of Engineering,http://gapp.usc.edu/graduate-programs/masters/computer-science/data-science
 University of Southern California,Master of Science in Healthcare Decision Analysis Concentration in Business Intelligence,M,T,F,US,CA,Los Angeles,School of Pharmacy,http://hcda.usc.edu/program/
 University of Southern California,Master of Science in Business Analytics,M,T,F,US,CA,Los Angeles,Marshall School of Business,http://www.marshall.usc.edu/msanalytics
@@ -72,7 +72,7 @@ University of Colorado Denver,MS in Information Systems - Business Intelligence,
 University of Colorado Denver,Master of Science in Information Systems,M,F,T,US,CO,Denver,Business School,http://www.ucdenver.edu/academics/colleges/business/degrees/ms/IS/Pages/Information-Systems.aspx
 University of Denver,Business Information and Analytics Certificate,C,F,T,US,CO,Denver,Daniels College of Business,http://daniels.du.edu/academic-programs/certificates-professional-development/graduate-business-certificates/business-information-analytics/
 University of Denver,Master of Science in Business Analytics,M,T,F,US,CO,Denver,Daniels College of Business,http://daniels.du.edu/masters-degrees/business-analytics/
-Central Connecticut State University,Data Mining,M,T,F,US,CT,,,http://web.ccsu.edu/datamining/
+Central Connecticut State University,Data Mining,M,T,F,US,CT,New Britain,,http://web.ccsu.edu/datamining/
 Central Connecticut State University,Graduate Certificate in Data Mining,C,T,F,US,CT,New Britain,Department of Mathematical Sciences,http://web.ccsu.edu/datamining/graduate%20certificate.html
 Quinnipiac University,Master of Science in Business Analytics,M,T,F,US,CT,Hamden,School of Business,http://www.quinnipiac.edu/academics/qu-online/online-programs/online-graduate-programs/master-of-science-in-business-analytics/
 University of Connecticut,Master of Science in Business Analytics and Project Management,M,F,T,US,CT,Storrs,School of Business,http://msbapm.business.uconn.edu/
@@ -81,7 +81,7 @@ American University,MS Business Analytics,M,F,T,US,DC,Washington,Kogod School of
 American University,Online MS Analytics,M,T,F,US,DC,Washington,Kogod School of Business,http://onlinebusiness.american.edu/analytics/
 George Washington University,Master of Science in Data Science,M,F,T,US,DC,Washington,Columbian College of Arts and Sciences,http://datasci.columbian.gwu.edu/why-data-science-gw
 Georgetown University,"Master of Science in Analytics, Concentration in Data Sciences (MS-DS)",M,F,T,US,DC,Washington,Graduate School of Arts & Sciences,http://gradanalytics.georgetown.edu/
-The George Washington University,Business Analytics,M,F,T,US,DC,,Business,http://business.gwu.edu/msba
+The George Washington University,Business Analytics,M,F,T,US,DC,Washington,Business,http://business.gwu.edu/msba
 Florida International University,Master of Science in Health Informatics and Management Systems,M,F,T,US,FL,Miami,Chapman Graduate School of Business,http://business.fiu.edu/fiubusiness/mshims.cfm
 Florida Polytechnic University,Big Data Analytics,B,F,T,US,FL,Lakeland,College of Innovation & Technology,https://floridapolytechnic.org/academics/advanced-technology/big-data-analytics/
 Full Sail University,Master of Science in Business Intelligence,M,T,F,US,FL,Winter Park,Full Sail University,http://www.fullsail.edu/degrees/online/business-intelligence-masters
@@ -118,8 +118,8 @@ Elmhurst College,M.S. in Data Science,M,F,T,US,IL,Elmhurst,Elmhurst College Onli
 Elmhurst College,Graduate Certificate in Data Science,C,F,T,US,IL,Elmhurst,Elmhurst College Online Center,http://public.elmhurst.edu/data_science/227880201.html
 Illinois Institute of Technology,MS - CS specialization in Data Analytics (with co-terminal BS/MS option),M,T,F,US,IL,Chicago,College of Science,http://science.iit.edu/programs/graduate/master-computer-science-specialization-data-analytics
 Illinois Institute of Technology,Master of Data Science,M,T,T,US,IL,Chicago,College of Science,http://science.iit.edu/programs/graduate/master-data-science
-Illinois Institute of Technology,Data Analytics,M,F,T,US,IL,,Computer Science,http://science.iit.edu/programs/graduate/master-computer-science-specialization-data-analytics
-Lewis University,Data Science,M,T,T,US,IL,,Computer Science,http://www.lewisu.edu/academics/data-science/index.htm
+Illinois Institute of Technology,Data Analytics,M,F,T,US,IL,Chicago,Computer Science,http://science.iit.edu/programs/graduate/master-computer-science-specialization-data-analytics
+Lewis University,Data Science,M,T,T,US,IL,Romeoville,Computer Science,http://www.lewisu.edu/academics/data-science/index.htm
 Lewis University,"Business Analytics, M.S.",M,T,F,US,IL,Romeoville,College of Business,https://www.lewisu.edu/academics/business-analytics/index.htm
 Loyola University Chicago,M.S. in Applied Statistics,M,F,T,US,IL,Chicago,Mathematics and Statistics,http://www.luc.edu/math/msappliedstat.shtml
 Loyola University Chicago,Graduate Certificate in Business Intelligence and Data Warehousing,C,F,T,US,IL,Chicago,Quinlan School of Business,http://www.luc.edu/quinlan/mba/academics/certificates-data-warehousing/
@@ -141,7 +141,7 @@ Indiana University Bloomington,Online MS in Business Analytics,M,F,T,US,IN,Bloom
 Indiana University Bloomington,Business Analytics Certificate Program,C,F,T,US,IN,Bloomington,Kelley School of Business: Department of Operations and Decision Technologi,http://www.kelley.iu.edu/ODT/AboutUs/DecisionSciences/page11147.html
 Indiana University Bloomington,Master of Science in Data Science,M,F,T,US,IN,Bloomington,School of Informatics and Computing,http://www.soic.indiana.edu/graduate/degrees/data-science/ms-data-science/index.html
 Indiana University Bloomington,Online Certificate in Data Science (Graduate),C,F,T,US,IN,Bloomington,School of Informatics and Computing,http://www.soic.indiana.edu/graduate/programs/data-science/index.shtml
-Indiana University-Purdue University Indianapolis,Informatics,D,F,T,US,IN,,School of Informatics,http://informatics.iupui.edu/graduate/phd/
+Indiana University Bloomington,Informatics,D,F,T,US,IN,Bloomington,School of Informatics,http://www.soic.indiana.edu/graduate/degrees/informatics/index.html
 Indiana University-Purdue University-Indianapolis,M.S. in Mathematics: Applied Statistics,M,T,F,US,IN,Indianapolis,Department of Mathematical Sciences,http://math.iupui.edu/graduate/degrees/ms/stats
 Indiana University-Purdue University-Indianapolis,Master of Science in Bioinformatics,M,T,F,US,IN,Indianapolis,Department of BioHealth Informatics,http://soic.iupui.edu/biohealth/graduate/bioinformatics-masters/
 Purdue University-Main Campus,"MBA, Specialization in Business Analytics",M,F,T,US,IN,West Lafayette,Krannert School of Management,http://www.krannert.purdue.edu/masters/programs/mba/option-areas/business-analytics/home.asp
@@ -176,7 +176,7 @@ Worcester Polytechnic Institute,Data Science,D,F,T,US,MA,Worcester,Data Science,
 Worcester Polytechnic Institute,Data Science,B,F,T,US,MA,Worcester,Data Science,http://www.wpi.edu/academics/datascience/bsms-program.html
 Worcester Polytechnic Institute,Graduate Certificate in Data Science,C,F,T,US,MA,Worcester,Data Science,http://www.wpi.edu/academics/datascience/certificate-program.html
 Worcester Polytechnic Institute,Master of Science in Data Science,M,F,T,US,MA,Worcester,Data Science,http://www.wpi.edu/academics/datascience/degree-requirements.html
-Johns Hopkins University,Bioinformatics,M,F,T,US,MD,,,http://advanced.jhu.edu/academic/biotechnology/ms-in-bioinformatics/
+Johns Hopkins University,Bioinformatics,M,F,T,US,MD,Baltimore,,http://advanced.jhu.edu/academic/biotechnology/ms-in-bioinformatics/
 Johns Hopkins University,Master of Science in Geographic Information Systems,M,T,T,US,MD,Baltimore,Krieger School of Arts & Sciences,http://advanced.jhu.edu/academics/graduate-degree-programs/geographic-information-systems/
 Johns Hopkins University,Master of Science in Information Systems,M,F,T,US,MD,Baltimore,Carey Business School,http://carey.jhu.edu/academics/master-of-science/ms-in-information-systems/
 Notre Dame of Maryland University,Master of Science in Analytics in Knowledge Management,M,F,T,US,MD,Baltimore,College of Arts and Sciences,http://catalog.ndm.edu/graduate/artsandsciences/knowledgemanagementprogram/
@@ -186,8 +186,8 @@ University of Maryland-College Park,Online MBA - Specialization in Information S
 University of Maryland-College Park,"MS in Business, Marketing Analytics",M,T,F,US,MD,College Park,Robert H. Smith School of Business,http://www.rhsmith.umd.edu/ms/analytics/
 University of Maryland-University College,Master of Science in Data Analytics,M,F,T,US,MD,Adelphi,University of Maryland University College Graduate School,http://www.umuc.edu/academic-programs/masters-degrees/data-analytics.cfm
 Baker College,MBA in Business Intelligence,M,F,T,US,MI,Allen Park,Baker College,http://www.baker.edu/programs-degrees/business-intelligence-master-ba/
-Central Michigan University,Data Mining,C,F,T,US,MI,,Mathematics,https://www.cmich.edu/colleges/cgs/landing_pages/Pages/Graduate-Certificate-Data-Mining.aspx
-Central Michigan University,Applied Statistics and Analytics,M,F,T,US,MI,,Mathematics,https://www.cmich.edu/colleges/cst/math/Pages/Master-of-Science-in-Applied-Statistics-and-Analytics.aspx
+Central Michigan University,Data Mining,C,F,T,US,MI,Mount Pleasant,Mathematics,https://www.cmich.edu/colleges/cgs/landing_pages/Pages/Graduate-Certificate-Data-Mining.aspx
+Central Michigan University,Applied Statistics and Analytics,M,F,T,US,MI,Mount Pleasant,Mathematics,https://www.cmich.edu/colleges/cst/math/Pages/Master-of-Science-in-Applied-Statistics-and-Analytics.aspx
 Davenport University,Master of Science in Health Informatics and Information Management,M,T,F,US,MI,Grand Rapids,College of Health Professions,http://www.davenport.edu/college-health-professions/programs-and-degrees/master-science-informatics-and-information-
 Eastern Michigan University,Master of Arts in Applied Statistics,M,T,F,US,MI,Ypsilanti,Department of Mathematics,http://catalog.emich.edu/preview_program.php?catoid=12&poid=6396
 Eastern Michigan University,Enterprise Business Intelligence specialization in the Master of Business Administration (MBA),M,F,T,US,MI,Ypsilanti,College of Business; Computer Information Systems Department,http://www.emich.edu/cob/departments_centers/computer_information_systems.php
@@ -204,8 +204,8 @@ Capella University,Business Intelligence Specialization Post-Baccalaureate Certi
 Capella University,MBA in Business Intelligence,M,F,T,US,MN,Minneapolis,School of Business & Technology,http://www.capella.edu/online-degrees/mba-business-intelligence/
 Capella University,MS in Analytics,M,T,F,US,MN,Minneapolis,School of Business & Technology,http://www.capella.edu/online-degrees/masters-analytics/
 The College of Saint Scholastica,M.S. Health Informatics,M,T,F,US,MN,Duluth,Health Informatics Program,http://www.css.edu/Graduate/Masters-Doctoral-and-Professional-Programs/Areas-of-Study/MS-Health-Informatics/Curriculum.html?ss=print
-University of Minnesota,Business Analytics,M,F,T,US,MN,,Business,http://carlsonschool.umn.edu/degrees/master-science-business-analytics
-University of Minnesota-Duluth,Master of Science in Business Analytics,M,F,T,US,MN,Duluth,Carlson School of Management,http://carlsonschool.umn.edu/degrees/master-science-in-business-analytics
+University of Minnesota,Business Analytics,M,F,T,US,MN,Minneapolis,Carlson School of Management,http://carlsonschool.umn.edu/degrees/master-science-in-business-analytics
+University of Minnesota-Duluth,Retail Marketing Analytics,B,F,T,US,MN,Duluth,Labovitz School of Business and Economics,https://lsbe.d.umn.edu/mktganalytics/program.php
 University of St. Thomas,M.S. in Data Science,M,F,T,US,MN,Saint Paul,Graduate Programs in Software,http://www.stthomas.edu/gradsoftware/programs/msdatascience/default.html
 Winona State University,Data Science,B,F,T,US,MN,Winona,Department of Mathematics and Statistics,http://www.winona.edu/data-science/
 Grantham University,Master of Science in Business Intelligence,M,T,F,US,MO,Kansas City,Business,http://rmi.grantham.edu/programs/master-of-science-in-business-intelligence
@@ -253,7 +253,7 @@ Columbia University in the City of New York,Master of Arts in Statistics,M,F,T,U
 Columbia University in the City of New York,"Masters of Science in Computer Science, concentration in Machine Learning",M,T,T,US,NY,New York,Fu Foundation School of Engineering and Applied Science,http://www.cs.columbia.edu/education/ms/machineLearning
 Cornell University,Master of Science in Health Informatics,M,F,T,US,NY,Ithaca,Cornell Medial College,http://hpr.weill.cornell.edu/education_and_training/MS_Health_Informatics_curriculum.html
 Cornell University,Master of Professional Studies (MPS) in Applied Statistics (Option II: Data Science),M,F,T,US,NY,Ithaca,Department of Statistical Science,http://stat.cornell.edu/academics/mps
-Cornell University,Data Analytics,M,F,T,US,NY,,Engineering,http://www.orie.cornell.edu/orie/academics/master/index.cfm
+Cornell University,Data Analytics,M,F,T,US,NY,Ithaca,Engineering,http://www.orie.cornell.edu/orie/academics/master/index.cfm
 CUNY Bernard M Baruch College,Advanced Certificate in Business Analytics of Large-Scale Data,C,F,T,US,NY,New York,School of Business,http://www.csi.cuny.edu/catalog/graduate/advanced-certificate-in-business-analytics-of-large-scale-data.htm
 CUNY Graduate School and University Center,Online Master of Science in Data Analytics,M,F,T,US,NY,New York,CUNY School of Professional Studies,https://sps.cuny.edu/academics/graduate/master-science-data-analytics-ms
 CUNY Queens College,MA in Data Analytics & Applied Social Research,M,T,F,US,NY,Flushing,Sociology Department,http://qcbigdata.com/program/
@@ -365,7 +365,7 @@ The University of Texas at Dallas,Master of Science in Marketing with Specializa
 The University of Texas at Dallas,Master of Science in Healthcare Management with Specialization in Healthcare informatics,M,T,F,US,TX,Richardson,Naveen Jindal School of Management,http://jindal.utdallas.edu/academic-programs/masters-programs/master-of-science-in-healthcare-management/
 The University of Texas at Dallas,Master of Science in Business Analytics,M,F,T,US,TX,Richardson,Jindal School of Management,http://www.utdallas.edu/admissions/graduate/degrees/detail.php?d=1791
 The University of Texas at San Antonio,Master of Science in Applied Statistics,M,T,F,US,TX,San Antonio,College of Business,http://graduateschool.utsa.edu/future-students/academic-programs/applied-statistics-m.s
-University of Dallas,MS or MBA - Business Analytics,M,F,T,US,TX,Dallas,Satish and Yasmin Gupta College of Business,http://www.udallas.edu/cob/ms/business_analytics/index.html
+University of Dallas,MS or MBA - Business Analytics,M,F,T,US,TX,Dallas,Satish and Yasmin Gupta College of Business,http://udallas.edu/cob/academics/ms/business_analytics/index.php
 University of North Texas,MS - Business Analytics,M,F,T,US,TX,Denton,College of Business,http://www.cob.unt.edu/programs/masters/tracksheets/MS%20Business%20Analytics.pdf
 University of Utah,MS in Computing: Data Management & Analysis,M,T,T,US,UT,Salt Lake City,School of Computing,http://www.cs.utah.edu/graduate/hb2014-15/gradhbk2014-15-ms-guidelines/
 George Mason University,Spatial Business Intelligence Graduate Certificate,C,T,F,US,VA,Fairfax,School of Management,http://catalog.gmu.edu/preview_program.php?catoid=5&poid=3296&returnto=85
@@ -411,15 +411,15 @@ Utrecht University,Business Informatics,M,F,T,NL,,,Information and Computing Sci
 Vrije Universiteit Amsterdam,Business Analytics,M,F,T,NL,,,,http://www.vu.nl/nl/opleidingen/masteropleidingen/opleidingenoverzicht/a-b/business-analytics/index.asp
 Autonomous Technological Institute of Mexico,Master of Science Data,M,F,T,MX,,Mexico City,,http://mcienciadatos.itam.mx/
 Mykolas Romeris University,Business Informatics,M,F,T,LT,,,,https://stdb.mruni.eu/studiju_programos_aprasas.php?id=2481&l=en
-Sangmyung University,Big Data Science,M,F,T,KR,,,,https://bigdata.smu.ac.kr
+Sangmyung University,Big Data Science,B,F,T,KR,,Seoul,,https://bigdata.smu.ac.kr
 BAICR,Data Science,M,F,T,IT,,,,http://www.baicr.it/palinsesto-geografico/data-science
 Polytechnic University Of Turin,Big Data Engineering,M,F,T,IT,,,,https://didattica.polito.it/portal/pls/portal/sviluppo.master.html?cds=73&sdu=32&a_acc=2013&p=presentazione&l=en
 University Of Milan-Bicocca,Business Intelligence & Decision Support Systems,M,F,T,IT,,,,http://www.bimasterbicocca.it/index.php?lang=en
 University Of Pisa,Business Informatics,M,F,T,IT,,,,http://www.unipi.it/index.php/ects/ects?ects_id=WBI-LM
-Ben-Gurion University Of The Negev,Data Mining And Business Intelligence,M,F,T,IL,,,,http://in.bgu.ac.il/en/engn/ise/Pages/Data_Mining_BI_En.aspx
-Dublin City University,Data Analytics,M,F,T,IE,,,,http://www.dcu.ie/prospective/deginfo.php?classname=MCM
-Dublin Institute Of Technology,Data Analytics,M,F,T,IE,,,,http://www.dit.ie/postgrad/programmes/dt228adt228bmscincomputingdataanalytics/
-Institute Of Technology Blanchardstown,Business Intelligence & Data Mining,M,F,T,IE,,,,http://www.itb.ie/StudyatITB/bn518BID.html
+Ben-Gurion University Of The Negev,Data Mining And Business Intelligence,M,F,T,IL,,Beersheba,,http://in.bgu.ac.il/en/engn/ise/Pages/Data_Mining_BI_En.aspx
+Dublin City University,Data Analytics,M,F,T,IE,,Dublin,,http://www.dcu.ie/prospective/deginfo.php?classname=MCM
+Dublin Institute Of Technology,Data Analytics,M,F,T,IE,,Dublin,,http://www.dit.ie/postgrad/programmes/dt228adt228bmscincomputingdataanalytics/
+Institute Of Technology Blanchardstown,Business Intelligence & Data Mining,M,F,T,IE,,Blanchardstown,,http://www.itb.ie/StudyatITB/bn518BID.html
 Irish Management Institute,Data Business,M,F,T,IE,,,,http://www.imi.ie/news-and-events/we-mean-business-with-data-business/
 National College Of Ireland,Data Analytics,C,F,T,IE,,,,http://www.ncirl.ie/Courses/Course-Details/course/Higher-Diploma-in-Science-in-Web-Technologies-HDSWTECH1
 "National University Of Ireland, Galway",Information Systems Management,M,F,T,IE,,,,http://www.nuigalway.ie/courses/taught-postgraduate-courses/information-systems-management.html
