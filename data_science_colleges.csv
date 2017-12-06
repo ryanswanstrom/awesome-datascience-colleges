@@ -16,9 +16,6 @@ Arizona State University,Business Analytics,M,F,T,US,AZ,Tempe,Business,http://wp
 Arizona State University,Business Data Analytics,B,F,T,US,AZ,Tempe,Business,http://wpcarey.asu.edu/undergraduate-degrees/data-analytics
 Arizona State University,Master of Science in Business Analytics,M,T,F,US,AZ,Tempe,W.P. Carey School of Business,https://programs.wpcarey.asu.edu/masters-programs/online-business-analytics
 University of Arizona,Business Intelligence & Analytics (Certificate NDP),C,F,T,US,AZ,Tucson,"Management Information Systems (MIS) Department, in association with t",http://grad.arizona.edu/programs/programinfo/BIACRTG
-Brigham Young University - Idaho,Data Science,A,F,T,US,ID,Rexburg,College of Physical Science and Engineering,http://www.byui.edu/mathematics
-Brigham Young University - Idaho,Data Science,B,F,T,US,ID,Rexburg,College of Physical Science and Engineering,http://www.byui.edu/mathematics
-Brigham Young University - Idaho,Data Science,C,F,T,US,ID,Rexburg,College of Physical Science and Engineering,http://www.byui.edu/mathematics
 California Polytechnic State University,Data Science Minor,B,F,T,US,CA,San Luis Obispo,College of Science and Mathematics,http://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/crossdisciplinarystudiesminordatascience/
 California Polytechnic State University,Business Analytics,M,F,T,US,CA,San Luis Obispo,Business,http://www.cob.calpoly.edu/gradbusiness/degree-programs/ms-business-analytics/
 California State University-East Bay,Master of Science in Business Administration: Business Analytics Option,M,T,F,US,CA,Hayward,College of Business and Economics,http://www20.csueastbay.edu/cbe/msba/index.html
@@ -87,6 +84,7 @@ Yale University,Statistics and Data Science,D,F,T,US,CT,New Haven,Department of 
 American University,MS Business Analytics,M,F,T,US,DC,Washington,Kogod School of Business,http://www.american.edu/kogod/graduate/MS-ANLT.cfm
 American University,Online MS Analytics,M,T,F,US,DC,Washington,Kogod School of Business,http://onlinebusiness.american.edu/analytics/
 George Washington University,Master of Science in Data Science,M,F,T,US,DC,Washington,Columbian College of Arts and Sciences,http://datasci.columbian.gwu.edu/why-data-science-gw
+Georgetown University,Master in Data Science for Public Policy (MDSPP),M,F,T,US,DC,Washington,McCourt School of Public Policy,https://mccourt.georgetown.edu/master-in-data-science-for-public-policy
 Georgetown University,"Master of Science in Analytics, Concentration in Data Sciences (MS-DS)",M,F,T,US,DC,Washington,Graduate School of Arts & Sciences,http://gradanalytics.georgetown.edu/
 The George Washington University,Business Analytics,M,F,T,US,DC,Washington,Business,http://business.gwu.edu/msba
 New College of Florida,Master of Data Science,M,F,T,US,FL,Sarasota,Interdisciplinary,https://www.ncf.edu/academics/graduate-program/data-science/
@@ -119,6 +117,9 @@ Luther College,Data Science,B,F,T,US,IA,Decorah,Computer Science,https://www.lut
 The University of Iowa,Business Analytics,B,F,T,US,IA,Iowa City,Business,http://tippie.uiowa.edu/management-sciences/undergraduate.cfm
 The University of Iowa,Business Analytics Certificate Program,C,F,T,US,IA,Cedar Rapids,Business,http://tippie.uiowa.edu/business-analytics
 The University of Iowa,Business Analytics Graduate Program,M,F,T,US,IA,Cedar Rapids,Business,http://tippie.uiowa.edu/business-analytics
+Brigham Young University - Idaho,Data Science,A,F,T,US,ID,Rexburg,College of Physical Science and Engineering,http://www.byui.edu/mathematics
+Brigham Young University - Idaho,Data Science,B,F,T,US,ID,Rexburg,College of Physical Science and Engineering,http://www.byui.edu/mathematics
+Brigham Young University - Idaho,Data Science,C,F,T,US,ID,Rexburg,College of Physical Science and Engineering,http://www.byui.edu/mathematics
 Aurora University,Master of Science in Digital Marketing and Analytics,M,F,T,US,IL,Aurora,Dunham School of Business,http://www.aurora.edu/academics/graduate/marketing/index.html
 Benedictine University,Master of Science in Business Analytics,M,F,T,US,IL,Lisle,College of Business,http://www.ben.edu/college-of-business/graduate/master-of-science-in-business-analytics.cfm
 DePaul University,M.S. in Predictive Analytics,M,F,T,US,IL,Chicago,College of Computing and Digital Media,http://www.cdm.depaul.edu/academics/Pages/MS-In-Predictive-Analytics.aspx
@@ -242,6 +243,7 @@ Maryville University, M.S. In Business Data Analytics, M,F,T,US,MO,St. Louis,Joh
 University of Missouri-St Louis,Graduate Certificate in Business Intelligence,C,F,T,US,MO,Saint Louis,Information Systems Department,http://mis.umsl.edu/M.S.%20in%20I.S./BICertificate.html
 Jackson State University,Computational and Data-Enabled Science and Engineering,D,F,T,US,MS,Jackson,,http://www.jsums.edu/gip/cdese/
 University of Montana,Certificate in Big Data Analytics,C,F,T,US,MT,Missoula,Data Science,http://www.umt.edu/datascience/study-big-data.php
+Duke University,Master in Interdisciplinary Data Science,M,F,T,US,NC,Durham,Social Science Research Institute,https://datascience.duke.edu
 Elon University,Information Science,B,F,T,US,NC,Elon,Computing Sciences,http://www.elon.edu/e-web/academics/elon_college/computing_sciences/curriculum/bsis.xhtml
 North Carolina State University at Raleigh,Master of Science in Analytics,M,F,T,US,NC,Raleigh,Institute for Advanced Analytics,http://analytics.ncsu.edu/
 University of North Carolina at Chapel Hill,Graduate Certificate in Public Health Informatics,C,F,T,US,NC,Chapel Hill,Gillings School of Global Public Health and School of Information and Libra,http://sph.unc.edu/hpm/hpm-degrees-and-certificates/hpm-phi-overview/
