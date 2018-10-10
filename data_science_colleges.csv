@@ -1,5 +1,4 @@
 SCHOOL,PROGRAM,DEGREE,ONLINE,ONCAMPUS,COUNTRY,STATE,CITY,DEPARTMENT,URL
-University of Colorado Boulder,Professional Graduate Certificate in Earth Data Analytics,C,T,T,US,CO,Boulder,Geography / Graduate School / Earth Lab,https://www.colorado.edu/earthlab/earth-data-analytics-foundations-professional-certificate
 Auburn University,Online Master of Business Administration with concentration in Business Analytics,M,F,T,US,AL,Auburn,Raymond J. Harbert College of Business,http://harbert.auburn.edu/academics/online-programs/mba-online/index.php
 Auburn University,Data Science,B,F,T,US,AL,Auburn,Business,http://harbert.auburn.edu/academics/undergraduate/business-analytics/index.php
 The University of Alabama,"Master of Science in Marketing, Specialization in Marketing Analytics",M,T,F,US,AL,Tuscaloosa,Manderson Graduate School of Business,http://bamabydistance.ua.edu/degrees/ms-in-marketing-with-a-specialization-in-marketing-analytics/index.php
@@ -70,6 +69,7 @@ Colorado Technical University,Big Data Analytics,D,T,T,US,CO,Denver,,http://www.
 Regis University,Graduate Certificate in Data Science,C,T,F,US,CO,Denver,College of Computer and Information Sciences,http://www.regis.edu/CCIS/Academics/Degrees-Programs/Certificates/GC-Data-Science.aspx
 Regis University,Data Science,M,T,T,US,CO,Denver,College of Computer and Information Sciences,http://www.regis.edu/CCIS/Academics/Degrees-Programs/Graduate-Programs/MS-Data-Sciences.aspx
 University of Colorado Boulder,Master of Science in Business Analytics,M,F,T,US,CO,Boulder,Leeds School of Business,http://www.colorado.edu/leedsms/ms-programs
+University of Colorado Boulder,Professional Graduate Certificate in Earth Data Analytics,C,T,T,US,CO,Boulder,Geography - Earth Lab,https://www.colorado.edu/earthlab/earth-data-analytics-foundations-professional-certificate
 University of Colorado Denver,MS in Decision Sciences,M,F,T,US,CO,Denver,Business School,http://catalog.ucdenver.edu/preview_program.php?catoid=10&poid=2105&returnto=1350
 University of Colorado Denver,Graduate Applied Statistics Certificate,C,F,T,US,CO,Denver,College of Arts and Sciences: Department of Mathematical and Statistical Sc,http://catalog.ucdenver.edu/preview_program.php?catoid=7&poid=1329&returnto=827
 University of Colorado Denver,MS in Business Analytics - Big Data Specialization,M,T,F,US,CO,Denver,Business School,http://www.ucdenver.edu/academics/colleges/business/degrees/ms/business-analytics/Pages/Big-Data.aspx
