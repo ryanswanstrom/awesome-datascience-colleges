@@ -514,6 +514,9 @@ BAICR,Data Science,M,F,T,IT,,,,http://www.baicr.it/palinsesto-geografico/data-sc
 Polytechnic University Of Turin,Big Data Engineering,M,F,T,IT,,,,https://didattica.polito.it/portal/pls/portal/sviluppo.master.html?cds=73&sdu=32&a_acc=2013&p=presentazione&l=en
 University Of Milan-Bicocca,Business Intelligence & Decision Support Systems,M,F,T,IT,,,,http://www.bimasterbicocca.it/index.php?lang=en
 University Of Pisa,Business Informatics,M,F,T,IT,,,,http://www.unipi.it/index.php/ects/ects?ects_id=WBI-LM
+Chennai Mathematical Institute,Data Science,M,F,T,IN,,Siruseri,Mathematics,https://www.cmi.ac.in/teaching/courses.php?prog=mscdatascience
+Christ University,Data Science,M,F,T,IN,,Bangalore,Computer Science,https://christuniversity.in/sciences/computer-science/msc-in-data-science
+Christ University,Data Science,D,F,T,IN,,Bangalore,Computer Science,https://christuniversity.in/sciences/computer-science/phd-data-science
 Ben-Gurion University Of The Negev,Data Mining And Business Intelligence,M,F,T,IL,,Beersheba,,http://in.bgu.ac.il/en/engn/ise/Pages/Data_Mining_BI_En.aspx
 Dublin City University,Data Analytics,M,F,T,IE,,Dublin,,http://www.dcu.ie/prospective/deginfo.php?classname=MCM
 Dublin Institute Of Technology,Data Analytics,M,F,T,IE,,Dublin,,http://www.dit.ie/postgrad/programmes/dt228adt228bmscincomputingdataanalytics/
@@ -624,5 +627,3 @@ University of South Australia,Data Science,M,F,T,AU,,Mawson Lakes,,http://progra
 University of Technology Sydney,Analytics,D,F,T,AU,,,,https://www.uts.edu.au/research-and-teaching/our-research/advanced-analytics-institute/research-student-opportunities-0
 Vienna University of Economics and Business,Information Systems,M,F,T,AT,,,Business,http://www.wu.ac.at/programs/en/master/is/structure/firstyear
 University of Vienna,Data Science Specialization,M,F,T,AT,,,Computer Science,http://cs.univie.ac.at/home/courses-of-study/
-Chennai Mathematical Institute,M,F,T,AT,,,Data Science,https://www.cmi.ac.in/
-Christ University,M,F,T,AT,,,Data Science,https://christuniversity.in/sciences/computer-science/msc-in-data-science
